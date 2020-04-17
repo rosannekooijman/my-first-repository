@@ -41,15 +41,31 @@ background: lightblue;
 
 }
 
+.title{
+	color: orange;
+	background: lightblue;
+	border: 1 px solid orange;
+	padding: 0.5em;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px; 
+
+}
+
 .form { 
 	text-align: center; 
 	color: 
-	
 }
+	 
 .cards { 
 color: white; 
 font-family: "alex-brush";
 font-size: 18px;
 background: darkblue; 
 
+}
+
+.t { 
+font-size: 40px; 
+	color: orange; 
 }
