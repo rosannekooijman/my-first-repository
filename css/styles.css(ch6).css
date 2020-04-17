@@ -1,0 +1,48 @@
+.my-class {
+	color: orange;
+	background: lightblue;
+	border: 1 px solid orange;
+	padding: 0.5em;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+}
+
+.body { 
+background: lightblue; 
+}
+
+.form { 
+	background: white; 
+
+}
+
+.h1 {
+	color:antiquewhite; 
+	background:orange;
+	font-family: "alex-brush bold";
+	font-weight: bold; 
+	text-align: center
+}
+
+.p {
+	color:white;
+	font-family: "alex-brush";
+	font-size: 18px; 
+}
+
+.header{
+	color: orange;
+	background: lightblue;
+	border: 1 px solid orange;
+	padding: 0.5em;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px; 
+
+}
+
+.form { 
+	text-align: center; 
+	color: 
+	
+}
